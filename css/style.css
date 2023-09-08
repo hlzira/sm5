@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color:darkred;
+}
+.box_list{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+}
+a{
+    color: black;
+    font-family: 'Poppins';
+    padding-left: 30px;
+}
